@@ -7,7 +7,7 @@ Most of the projects come from Andrew Ng's Deep Learning Specialization, [DeepLe
 Applications|Algorithm Implementation|Company
 ---|---|---|
 [Autonomous Driving: Object Detection](https://github.com/Lianghn/Projects-DeepLearing.ai/tree/master/Autonomous-Driving_Car-Detection_YOLO_Implementation)|**YOLO** with Keras|Drive.ai
-[Art Generation](http://localhost:8888/tree/Arts-Generation_Neural_Style_Transfer)|**Neural Style Transfer**, **VGG19** with Tensorflow|
+[Art Generation](https://github.com/Lianghn/DeepLearing/tree/master/Arts-Generation_Neural_Style_Transfer)|**Neural Style Transfer**, **VGG19** with Tensorflow|
 [Text Generation in character level](http://localhost:8888/tree/Character-Level_Text_Generation_LSTM)|**LSTM** for building a **language model**| 
 [NLP: Emojify](http://localhost:8888/tree/Emojify-Applicaton-WordEmbedding-LSTM)|**Word Embedding** and **LSTM** with Keras|Woebot
 [Face Recognition](http://localhost:8888/tree/Face-Recognition)|**FaceNet** with Keras|
