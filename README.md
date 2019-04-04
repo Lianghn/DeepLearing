@@ -2,7 +2,7 @@
 
 Deep Learning Algorithm Implementations and Application Approaches:
 
-Most of the projects come from Andrew Ng's Deep Learning Specialization, [DeepLearning.ai/Cousera Certificat](https://www.coursera.org/account/accomplishments/records/NWZN9Z34KHRF).
+Most of the projects come from Andrew Ng's Deep Learning Specialization, [DeepLearning.ai/Cousera Certificat](https://www.coursera.org/account/accomplishments/specialization/certificate/NWZN9Z34KHRF).
 
 Applications|Algorithm Implementation|Company
 ---|---|---|
